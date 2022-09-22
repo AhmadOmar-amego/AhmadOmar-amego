@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... react js , django , signals , mixins , devops
 - 💞️ I’m looking to collaborate on new topics and new vision  and looking forward to achieve that
 - 📫 you can reach me on linkedin on this link :  https://www.linkedin.com/in/ahmad-akel-omar-0990411b1/
+-    email ahmadomar.amego@gmail.com
 
 <!---
 AhmadOmar-amego/AhmadOmar-amego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
