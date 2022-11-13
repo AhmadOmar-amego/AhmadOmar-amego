@@ -43,10 +43,11 @@ const anmol = {
             framework: ["django", "flask", "spring"],
         },
         frontend: {
-            framework: ["React JS"]
+            framework: ["React JS", "React TS"],
+            native: ["css", "html", "javaScript", "typeScript"]
         },
-        devOps: ["Azure", "Docker🐳", "linux-centos", "Nginx"],
-        databases: ["MySql", "postgreSql"],
+        devOps: ["Azure", "Docker🐳", "linux-centos", "Nginx", "SSL", "SSH"],
+        databases: ["MySql", "postgreSql", "SqlLite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     }
 };
