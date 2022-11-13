@@ -10,7 +10,7 @@
 
 [comment]: <> (![]&#40;https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098&#41;)
 
-### 📫 Like to meet me?
+### 📫 Like to meet me??..
 
 - 👋 Hi, I’m @AhmadOmar-amego
 - 👀 I’m interested in AI , security field, and maybe something else :) Languages of interest: C++, Java, Python.
