@@ -45,7 +45,7 @@ here is a commit
 
 
 ```javascript
-const Ahmad0mar = {
+const AhmadOmar = {
     pronouns: "He" | "Him",
     programmingLanguages: ["Python", "Javascript", "Java", "c#", "c++", "TypeScript"],
     askMeAbout: [
