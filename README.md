@@ -25,9 +25,9 @@
 - Email:     ahmadomar.amego@gmail.com
 
 
-
+<br>
 <p align="center"> 
-  Visitor count<br><br>
+  <strong>Visitor count</strong><br><br>
   <img src="https://profile-counter.glitch.me/AhmadOmar-amego/count.svg" />
 </p>
 
